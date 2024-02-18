@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hola, soy [Jorge Suazo]
 
-[![Linkedin: jsuazof](https://img.shields.io/badge/-tuusuario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgesuazof/)](https://www.linkedin.com/in/tuusuario/)
+[![Linkedin: jorgesuazof](https://img.shields.io/badge/-jorgesuazof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgesuazof/)](https://www.linkedin.com/in/jorgesuazof/)
 [![GitHub tuusuario](https://img.shields.io/github/followers/tuusuario?label=follow&style=social)](https://github.com/tuusuario)
 
 ## Sobre mí
