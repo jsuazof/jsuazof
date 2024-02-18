@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![GitHub Jorge Suazo](https://img.shields.io/github/followers/jsuazof?label=follow&style=social)](https://github.com/jsuazof)
 
 ## Sobre mí
-¡Hola! Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp de Tlento Digital en Java 2024.
+Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp de Tlento Digital en Java 2024.
 
 - 🚀 El año pasado, completé exitosamente el bootcamp Fullstack de Alura.
 - ☁️ Obtuvé mi certificación OCI (Oracle Cloud Infrastructure) de Oracle.
