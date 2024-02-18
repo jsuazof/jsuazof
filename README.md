@@ -26,7 +26,7 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
 - ☁️ Obtuvé mi certificación OCI (Oracle Cloud Infrastructure) de Oracle.
 
 ## Certificaciones
-- [Certificación OCI de Oracle](URL de certificación OCI):
+- [Certificación OCI de Oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=28D87126F09F999640C843A6ACFF0CD769E19A2FD6528FC17DEDA4B91CC9305C):
 
 ## Habilidades
 - Java, HTML, CSS, JavaScript, Vue, NextJS, etc.
