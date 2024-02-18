@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, soy [Tu Nombre]
+# Hola, soy [Jorge Suazo]
 
-[![Linkedin: tuusuario](https://img.shields.io/badge/-tuusuario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
+[![Linkedin: jsuazof](https://img.shields.io/badge/-tuusuario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgesuazof/)](https://www.linkedin.com/in/tuusuario/)
 [![GitHub tuusuario](https://img.shields.io/github/followers/tuusuario?label=follow&style=social)](https://github.com/tuusuario)
 
 ## Sobre mí
