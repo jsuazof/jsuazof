@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ☁️ Obtuvé mi certificación OCI (Oracle Cloud Infrastructure) de Oracle.
 
 ## Certificaciones
-- [Certificación OCI de Oracle](URL de certificación OCI): Descripción breve.
+- [Certificación OCI de Oracle](URL de certificación OCI):
 
 ## Habilidades
 - Java, HTML, CSS, JavaScript, Vue, NextJS, etc.
