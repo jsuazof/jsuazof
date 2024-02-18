@@ -20,20 +20,16 @@ Here are some ideas to get you started:
 [![GitHub Jorge Suazo](https://img.shields.io/github/followers/jsuazof?label=follow&style=social)](https://github.com/jsuazof)
 
 ## Sobre mí
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador FullStack. Actualmente participo en el bootcamp de Tlento Digital en Java 2024.
+¡Hola! Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp de Tlento Digital en Java 2024.
 
-- 🚀 El año pasado, completé exitosamente el bootcamp de Alura.
+- 🚀 El año pasado, completé exitosamente el bootcamp Fullstack de Alura.
 - ☁️ Obtuvé mi certificación OCI (Oracle Cloud Infrastructure) de Oracle.
-
-## Proyectos Destacados
-- [Proyecto 1](https://github.com/tuproyecto1): Descripción breve del proyecto.
-- [Proyecto 2](https://github.com/tuproyecto2): Descripción breve del proyecto.
 
 ## Certificaciones
 - [Certificación OCI de Oracle](URL de certificación OCI): Descripción breve.
 
 ## Habilidades
-- Java, HTML, CSS, JavaScript, etc.
+- Java, HTML, CSS, JavaScript, Vue, NextJS, etc.
 
 ¡Gracias por visitar mi perfil!
 
