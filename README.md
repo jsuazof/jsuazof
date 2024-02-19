@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hola, soy Jorge Suazo
 
 [![Linkedin: jorgesuazof](https://img.shields.io/badge/-jorgesuazof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgesuazof/)](https://www.linkedin.com/in/jorgesuazof/)
-[![GitHub Jorge Suazo](https://img.shields.io/github/followers/jsuazof?label=follow&style=social)](https://github.com/jsuazof)
+[![GitHub Jorge Suazo](https://img.shields.io/github/followers/jsuazof?label=follow&jsuazof&style=social)](https://github.com/jsuazof)
 
 ## Sobre mí
 Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp de Talento Digital en Java 2024.
