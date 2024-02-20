@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- # Hola, soy Jorge Suazo -->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+soy+Jorge+Suazo;)
 
-[![Linkedin: jorgesuazof](https://img.shields.io/badge/-jorgesuazof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgesuazof/)](https://www.linkedin.com/in/jorgesuazof/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsuazof/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsuazof@gmail.com)](mailto:jsuazof@gmail.com)
 
 
