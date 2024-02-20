@@ -33,13 +33,13 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
 
 ¡Gracias por visitar mi perfil!
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://profile-counter.glitch.me/jsuazof/count.svg?"  />
 </div>
--->
+
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
