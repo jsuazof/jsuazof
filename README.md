@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsuazof/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsuazof@gmail.com)](mailto:jsuazof@gmail.com)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jsuazof/count.svg?"  />
+</div>
+
 
 ## Sobre mí
 Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp de Talento Digital en Java 2024.
@@ -31,19 +35,6 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
 - [Certificación OCI de Oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=28D87126F09F999640C843A6ACFF0CD769E19A2FD6528FC17DEDA4B91CC9305C):
 
 ## Habilidades
-- Java, HTML, CSS, JavaScript, Vue, NextJS, etc.
-
-¡Gracias por visitar mi perfil!
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jsuazof/count.svg?"  />
-</div>
-
-###
-
-<!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
