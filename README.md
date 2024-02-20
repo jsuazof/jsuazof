@@ -137,7 +137,7 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
 
 ###
 
-<img src="https://raw.githubusercontent.com/jsuazof/jsuazof/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jsuazof/jsuazof/output/snake_dark.svg" alt="Snake animation" />
 
 ###
 
