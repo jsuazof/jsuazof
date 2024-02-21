@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsuazof@gmail.com)](mailto:jsuazof@gmail.com)
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/jsuazof/count.svg?"  />
+ <!-- <img src="https://profile-counter.glitch.me/jsuazof/count.svg?"  /> -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsuazof&label=Profile%20views&color=0e75b6&style=flat" alt="jsuazof" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsuazof" alt="jsuazof" /></a> </p>
