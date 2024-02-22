@@ -151,7 +151,7 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
   </a>
 </div>
 
-###
+##
 
 <div align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jsuazof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -159,7 +159,7 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsuazof&show_icons=true&locale=en&layout=compact" alt="jsuazof" /></p>
 </div>
 
-###
+##
 
 <div align="left">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsuazof&show_icons=true&locale=en" alt="jsuazof" /></p>
