@@ -143,13 +143,7 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div> -->
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/21xcmwd7r6572yh2agoux5jti">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21xcmwd7r6572yh2agoux5jti&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ##
 
@@ -159,3 +153,10 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsuazof&show_icons=true&locale=en&layout=compact" alt="jsuazof" />
 </div>
 
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/21xcmwd7r6572yh2agoux5jti">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21xcmwd7r6572yh2agoux5jti&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
