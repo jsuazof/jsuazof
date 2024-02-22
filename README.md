@@ -158,19 +158,12 @@ Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsuazof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsuazof&show_icons=true&locale=en&layout=compact" alt="jsuazof" /></p>
 </div>
-###
-###
-<div align="center">
+
+<div align="left">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsuazof&show_icons=true&locale=en" alt="jsuazof" /></p>
 </div>
-###
-###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsuazof&" alt="jsuazof" /></p>
-###
-###
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jsuazof&" alt="jsuazof" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsuazof" alt="jsuazof" /></a> </p>
 </div>
-###
-
-
-###
