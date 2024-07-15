@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 
 ## Sobre mí
-Soy un apasionado desarrollador FullStack. Actualmente participo en el bootcamp de Talento Digital en Java 2024.
+Soy un apasionado desarrollador FullStack. Finalice exitosamente el bootcamp de Talento Digital en Java 2024.
 
-- 🚀 El 2023, completé exitosamente el bootcamp Fullstack Java en Oracle Next Education.
+- 🚀 El 2023, completé exitosamente el bootcamp Backend Java en Oracle Next Education.
 - ☁️ Obtuvé mi certificación OCI (Oracle Cloud Infrastructure) de Oracle.
 
 ## Certificaciones
