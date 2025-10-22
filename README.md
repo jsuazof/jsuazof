@@ -2,7 +2,7 @@
 
 **Cloud Architect & FullStack Developer**
 
-Cloud Architect & FullStack Developer con más de 30 años de experiencia en TI.  
+Cloud Architect & FullStack Developer con más de 25 años de experiencia en TI.  
 Especializado en arquitecturas cloud escalables (AWS), desarrollo web moderno y soluciones empresariales de alta disponibilidad.  
 Mi trayectoria combina ingeniería, desarrollo y liderazgo técnico, con experiencia en sectores como minería, ingeniería y tecnología.
 
