@@ -1,43 +1,74 @@
-# Jorge Suazo Fuenzalida
 
-**Cloud Security Engineer | Infrastructure, Network & Systems Security**
+# Hi, I'm Jorge Suazo 👋
 
-IT professional with 25+ years of experience in IT infrastructure, networking, systems administration and cloud technologies.
+### Cloud Security Engineer | Infrastructure, Network & Systems Security | GCP
 
-My background includes Windows and Linux environments, network architecture, Active Directory, perimeter security, cloud infrastructure, access management, monitoring, hardening, backup and recovery.
+I'm a Cloud Security Engineer based in Santiago, Chile, with 25+ years of experience in enterprise infrastructure, networking, Windows/Linux systems, virtualization and business continuity.
 
-I am currently expanding my expertise in cybersecurity, focusing on infrastructure security, security operations fundamentals, vulnerability assessment, log analysis and Python automation.
+My background helps me approach cloud security with an operator's mindset: I understand how infrastructure is built, how networks behave and how services fail — and I use that to design secure, resilient and scalable cloud environments.
 
-**Areas of interest:**
-- Infrastructure & Network Security
-- Cybersecurity & Security Operations
-- Cloud Security (AWS, Google Cloud, Oracle Cloud)
-- Linux & Windows Server Administration
-- Python & Bash Automation
-- Vulnerability Assessment
-
-**Technologies & Tools:**
-
-- **Cloud:** AWS, Google Cloud Platform, Oracle Cloud Infrastructure
-- **Systems:** Linux, Windows Server, Active Directory
-- **Networking:** MikroTik, Ubiquiti, VPN, Firewalls, Wireshark
-- **Security:** Security Hardening, Access Management, Nmap, MITRE ATT&CK fundamentals
-- **Automation:** Python, Bash, Git
-- **Development:** Java, Spring Boot, JavaScript, TypeScript, Next.js, Astro, Vue.js
-- **Infrastructure:** Docker, Kubernetes, Terraform
+- 🔐 Focused on **cloud security, IAM, network security and secure cloud architecture**
+- ☁️ Professional experience with **Google Cloud Platform**: VPC, IAM, service accounts, DNS, load balancing and autoscaling
+- 🛠️ Building practical projects with **Terraform, Python, Docker and Kubernetes**
+- 📍 Santiago, Chile · Open to Cloud Security / Cloud Infrastructure roles
 
 ---
 
-## 🌐 Portfolio & Professional Profile
+## 🎯 Current focus
 
-Explore my projects, certifications and professional background:
-
-👉 **[https://jsuazof.github.io/](https://jsuazof.github.io/)**
-
-🔗 **[LinkedIn](https://www.linkedin.com/in/jorgesuazof/)**
+- Hardening GCP infrastructure with least-privilege IAM and segmented VPC design
+- Automating security checks and cloud operations with Python
+- Building secure infrastructure baselines with Terraform
+- Documenting labs and write-ups on cloud security and network security
 
 ---
 
-*Continuous learning. Building secure, reliable and scalable technology.*
+## 🧰 Tech stack
 
-**© 2026 Jorge Suazo Fuenzalida**
+**Cloud**
+`Google Cloud Platform` `AWS` `Oracle Cloud Infrastructure`
+
+**Security & Networking**
+`IAM` `Service Accounts` `Check Point Firewall` `VLAN` `Active Directory` `Network Security`
+
+**Systems & Virtualization**
+`Linux` `Windows Server` `VMware vSphere/vCenter` `Enterprise Storage`
+
+**DevOps & Automation**
+`Terraform` `Docker` `Kubernetes` `CI/CD` `Git` `GitHub` `Python`
+
+**Monitoring & Continuity**
+`Nagios` `SolarWinds` `Open-AudIT` `Backup & Recovery` `Disaster Recovery`
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [Secure GCP VPC Baseline](#) | Segmented VPC design, firewall rules and least-privilege access | GCP, Terraform |
+| [IAM Least-Privilege Auditor](#) | Python script to detect overly permissive IAM roles and service accounts | Python, GCP IAM |
+| [Cloud Security Lab Write-ups](#) | Hands-on labs and remediation notes for cloud/network security scenarios | GCP, AWS, Linux |
+| [Full Stack Projects](#) | Web application development with Docker, Next.js, REST APIs and SQL | Docker, Next.js, SQL |
+
+> Replace `#` with the real repository links. Pin these repos on your GitHub profile.
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Professional Certificate — Google / Coursera
+- Google IT Automation with Python Professional Certificate — Google / Coursera
+- AWS Cloud Practitioner Essentials — AWS Training & Certification
+- Oracle Cloud Infrastructure (OCI) — Oracle University
+- Fundamentos Cloud Architect — Talento Digital
+
+[View all certifications and credentials](https://jsuazof.github.io/certificates/)
+
+---
+
+## 🌐 Connect
+
+- Portfolio: [jsuazof.github.io](https://jsuazof.github.io/)
+- LinkedIn: [linkedin.com/in/jorgesuazof](https://linkedin.com/in/jorgesuazof)
+- Email: [jsuazof@gmail.com](mailto:jsuazof@gmail.com)
