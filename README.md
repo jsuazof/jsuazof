@@ -1,6 +1,6 @@
 # Jorge Suazo Fuenzalida
 
-**Cybersecurity & Infrastructure Security Analyst**
+**Cloud Security Engineer | Infrastructure, Network & Systems Security**
 
 IT professional with 25+ years of experience in IT infrastructure, networking, systems administration and cloud technologies.
 
