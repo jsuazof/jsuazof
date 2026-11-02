@@ -51,7 +51,6 @@ My background helps me approach cloud security with an operator's mindset: I und
 | [Cloud Security Lab Write-ups](https://github.com/jsuazof/Proyecto-ABP) | Hands-on labs and remediation notes for cloud/network security scenarios | GCP, AWS, Linux |
 | [Full Stack Projects](https://github.com/jsuazof/fastapi-backend) | Web application development with Docker, Next.js, REST APIs and SQL | Docker, Next.js, SQL |
 
-> Replace `#` with the real repository links. Pin these repos on your GitHub profile.
 
 ---
 
