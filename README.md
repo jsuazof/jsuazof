@@ -46,10 +46,10 @@ My background helps me approach cloud security with an operator's mindset: I und
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [Secure GCP VPC Baseline](#) | Segmented VPC design, firewall rules and least-privilege access | GCP, Terraform |
-| [IAM Least-Privilege Auditor](#) | Python script to detect overly permissive IAM roles and service accounts | Python, GCP IAM |
-| [Cloud Security Lab Write-ups](#) | Hands-on labs and remediation notes for cloud/network security scenarios | GCP, AWS, Linux |
-| [Full Stack Projects](#) | Web application development with Docker, Next.js, REST APIs and SQL | Docker, Next.js, SQL |
+| [Secure GCP VPC Baseline](https://github.com/jsuazof/gcp-ha-infrastructure) | Segmented VPC design, firewall rules and least-privilege access | GCP, Terraform |
+| [IAM Least-Privilege Auditor](https://github.com/jsuazof/it-cert-automation-practice) | Python script to detect overly permissive IAM roles and service accounts | Python, GCP IAM |
+| [Cloud Security Lab Write-ups](https://github.com/jsuazof/Proyecto-ABP) | Hands-on labs and remediation notes for cloud/network security scenarios | GCP, AWS, Linux |
+| [Full Stack Projects](https://github.com/jsuazof/fastapi-backend) | Web application development with Docker, Next.js, REST APIs and SQL | Docker, Next.js, SQL |
 
 > Replace `#` with the real repository links. Pin these repos on your GitHub profile.
 
