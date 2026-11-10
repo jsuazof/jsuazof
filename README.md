@@ -55,16 +55,16 @@ My current focus is translating established infrastructure controls into measura
 - Symantec Backup
 - Business continuity and disaster recovery
 
-## Featured projects
+## Projects in progress
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [gcp-secure-vpc-baseline](<REPO_URL_PENDING>) | Segmented VPC design with private subnets, controlled firewall rules, and least-privilege IAM. | GCP, Terraform |
-| [iam-least-privilege-auditor](<REPO_URL_PENDING>) | Detection of overly permissive IAM roles and service accounts with actionable reports. | Python, GCP IAM API |
-| [hybrid-network-security-lab](<REPO_URL_PENDING>) | Segmentation, traffic flows, and security controls across on-premises and GCP environments. | GCP, MikroTik, Check Point, Terraform |
-| [cloud-security-portfolio](<REPO_URL_PENDING>) | Evidence-based portfolio linking architecture decisions, security findings, remediation, and outcomes. | <REPO_STACK_PENDING> |
+| gcp-secure-vpc-baseline | Segmented VPC design with private subnets, controlled firewall rules, and least-privilege IAM. | GCP, Terraform |
+| iam-least-privilege-auditor | Detection of overly permissive IAM roles and service accounts with actionable reports. | Python, GCP IAM API |
+| hybrid-network-security-lab | Segmentation, traffic flows, and security controls across on-premises and GCP environments. | GCP, MikroTik, Check Point, Terraform |
+| cloud-security-portfolio | Evidence-based portfolio linking architecture decisions, security findings, remediation, and outcomes. | To be determined |
 
-> Replace `<REPO_URL_PENDING>` and `<REPO_STACK_PENDING>` with real repository links and confirmed stacks.
+> Repository links will be added once these projects are published.
 
 ## Certifications
 
